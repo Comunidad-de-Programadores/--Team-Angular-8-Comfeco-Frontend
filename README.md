@@ -62,5 +62,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Link
 http://petermun-001-site1.etempurl.com/
+
+segundo link en caso del que el primero este caido: https://comfeco-zeta.vercel.app/
+
 id huawei App ID:
 322385623854140141
